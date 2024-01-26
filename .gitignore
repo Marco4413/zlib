@@ -24,3 +24,11 @@
 /configure.log
 
 .DS_Store
+
+# Files from premake
+bin
+obj
+include
+zlib.vcxproj*
+# Makefile
+# Makefile should be ignored but there's a default one
